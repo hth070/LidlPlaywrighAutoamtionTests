@@ -1,4 +1,4 @@
-//dummy test for opening browser, accepting cookies, does basic search, collapses all fascets (4 of them)
+//dummy test for verifying URL and page title + assertions
 
 import { test, expect } from '@playwright/test';
 
